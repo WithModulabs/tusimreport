@@ -180,7 +180,9 @@ GEMINI_MODEL=gemini-2.0-flash-lite
 OPENAI_API_KEY=your_openai_api_key  # 대체용
 
 # 한국 데이터 API (검증 완료)
+# https://opendart.fss.or.kr/uat/uia/egovLoginUsr.do
 DART_API_KEY=your_dart_api_key      # 금융감독원
+# https://ecos.bok.or.kr/api/#/
 ECOS_API_KEY=your_ecos_api_key      # 한국은행
 NAVER_CLIENT_ID=your_naver_id       # 네이버 뉴스
 NAVER_CLIENT_SECRET=your_naver_secret

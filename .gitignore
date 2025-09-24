@@ -5,3 +5,6 @@ CLAUDE.md
 *.png
 .vscode/
 test/
+*.png
+*.log
+.env
